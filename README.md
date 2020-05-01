@@ -1,2 +1,3 @@
-# c_sharp
-C# Projeleri
+# C# Projeleri
+
+Bu bölümde C# üzerine çalıştığım projeleri paylaşıyorum.
