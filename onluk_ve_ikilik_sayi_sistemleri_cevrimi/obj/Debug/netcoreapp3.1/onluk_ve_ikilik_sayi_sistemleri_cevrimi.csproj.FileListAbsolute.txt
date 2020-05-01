@@ -1,0 +1,13 @@
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.exe
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.deps.json
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.runtimeconfig.json
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.dll
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\bin\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.pdb
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.AssemblyInfo.cs
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.dll
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.pdb
+C:\Users\yunus\source\repos\onluk_ve_ikilik_sayi_sistemleri_cevrimi\obj\Debug\netcoreapp3.1\onluk_ve_ikilik_sayi_sistemleri_cevrimi.genruntimeconfig.cache

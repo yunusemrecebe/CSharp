@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "onluk_ve_ikilik_sayi_sistemleri_cevrimi/1.0.0": {
+        "runtime": {
+          "onluk_ve_ikilik_sayi_sistemleri_cevrimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "onluk_ve_ikilik_sayi_sistemleri_cevrimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
